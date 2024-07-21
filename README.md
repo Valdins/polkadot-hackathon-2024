@@ -1,9 +1,11 @@
 Energy Token Marketplace
 
 Short Summary
+
 Decentralized energy marketplace using Polkadot parachain for peer-to-peer trading of household-generated energy tokens.
 
 Full Description
+
 This project aims to revolutionize the energy sector by creating a decentralized, peer-to-peer energy commodity market on the blockchain. It addresses several key problems in the current energy market:
 
 Lack of incentives for household energy generation

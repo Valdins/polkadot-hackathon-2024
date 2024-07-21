@@ -1,4 +1,4 @@
-# Energy Token Marketplace
+# EnerTrade
 
 ## Short Summary
 
